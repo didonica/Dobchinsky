@@ -8,6 +8,6 @@
 - [исходные данные графа](https://github.com/didonica/Dobchinsky/blob/master/%D0%93%D1%80%D0%B0%D1%84_%D0%A8%D0%B2%D0%B0%D1%80%D1%86_%D0%A2%D0%B5%D0%BD%D1%8C.csv) (в формате cvs)
 - [граф](https://github.com/didonica/Dobchinsky/blob/master/%D0%93%D1%80%D0%B0%D1%84_%D0%A8%D0%B2%D0%B0%D1%80%D1%86_%D0%A2%D0%B5%D0%BD%D1%8C.pdf), получившийся в gephi в формате pdf
 - [анализ графа](https://github.com/didonica/Dobchinsky/blob/master/Shvarz_analiz.md)
-4. [Карту](https://github.com/didonica/Dobchinsky/blob/master/Captain%20Vrunguel_Adventures.geojson), показывающую маршрут кругосветного путешествия капитана Врунгеля (из книги 1939 г. "Приключения капитана Врунгеля" Андрея Некрасова).
+4. [Карту](https://github.com/didonica/Dobchinsky/blob/master/Captain%20Vrunguel_Adventures_1.geojson), показывающую маршрут кругосветного путешествия капитана Врунгеля (из книги 1939 г. "Приключения капитана Врунгеля" Андрея Некрасова).
 
 
